@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-image:url("https://as1.ftcdn.net/v2/jpg/09/44/32/40/1000_F_944324062_oEgtqVOgtYGdLfE14PWS9wtHH3Sxpt19.jpg");
+    background-repeat: no-repeat; */
+    /* background-size: cover;*/
+    
+
+    text-align:center;
+    margin-top:50px;
+    padding: 50px;
+    background-position:center; 
+    background: linear-gradient(rgb(249, 84, 39), rgb(31, 55, 41));
+}
+#pic{
+   margin-top:50px;
+   border-radius: 25px;
+}
